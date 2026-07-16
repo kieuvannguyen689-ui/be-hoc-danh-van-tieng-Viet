@@ -1,0 +1,6 @@
+{
+  "name": "Đánh Vần Montessori",
+  "description": "Học đánh vần tiếng Việt trực quan, chuẩn Montessori dành cho trẻ mầm non 4-6 tuổi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
